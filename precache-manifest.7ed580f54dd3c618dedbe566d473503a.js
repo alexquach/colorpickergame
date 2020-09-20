@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d518562498334dc952031604c4395cf",
+    "revision": "744801819d3d72b837bdea48766cd778",
     "url": "/colorpickergame/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colorpickergame/static/css/2.43074b11.chunk.css"
   },
   {
-    "revision": "d1641cd6af65030327f5",
+    "revision": "09b0ee945291f28114c5",
     "url": "/colorpickergame/static/css/main.636d2254.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colorpickergame/static/js/2.cc20a010.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1641cd6af65030327f5",
-    "url": "/colorpickergame/static/js/main.d68240ac.chunk.js"
+    "revision": "09b0ee945291f28114c5",
+    "url": "/colorpickergame/static/js/main.b4b72edf.chunk.js"
   },
   {
     "revision": "986179c771f26382dd69",

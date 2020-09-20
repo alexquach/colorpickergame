@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/colorpickergame/static/css/main.636d2254.chunk.css",
-    "main.js": "/colorpickergame/static/js/main.d68240ac.chunk.js",
-    "main.js.map": "/colorpickergame/static/js/main.d68240ac.chunk.js.map",
+    "main.js": "/colorpickergame/static/js/main.b4b72edf.chunk.js",
+    "main.js.map": "/colorpickergame/static/js/main.b4b72edf.chunk.js.map",
     "runtime-main.js": "/colorpickergame/static/js/runtime-main.9eb48925.js",
     "runtime-main.js.map": "/colorpickergame/static/js/runtime-main.9eb48925.js.map",
     "static/css/2.43074b11.chunk.css": "/colorpickergame/static/css/2.43074b11.chunk.css",
     "static/js/2.cc20a010.chunk.js": "/colorpickergame/static/js/2.cc20a010.chunk.js",
     "static/js/2.cc20a010.chunk.js.map": "/colorpickergame/static/js/2.cc20a010.chunk.js.map",
     "index.html": "/colorpickergame/index.html",
-    "precache-manifest.2764673e2499a4c2e5abb5a171f680db.js": "/colorpickergame/precache-manifest.2764673e2499a4c2e5abb5a171f680db.js",
+    "precache-manifest.7ed580f54dd3c618dedbe566d473503a.js": "/colorpickergame/precache-manifest.7ed580f54dd3c618dedbe566d473503a.js",
     "service-worker.js": "/colorpickergame/service-worker.js",
     "static/css/2.43074b11.chunk.css.map": "/colorpickergame/static/css/2.43074b11.chunk.css.map",
     "static/css/main.636d2254.chunk.css.map": "/colorpickergame/static/css/main.636d2254.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.43074b11.chunk.css",
     "static/js/2.cc20a010.chunk.js",
     "static/css/main.636d2254.chunk.css",
-    "static/js/main.d68240ac.chunk.js"
+    "static/js/main.b4b72edf.chunk.js"
   ]
 }
